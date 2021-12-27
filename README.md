@@ -1,14 +1,4 @@
 # 仿钉钉后台审批流程
-> 渣新出品，不曾想放到GitHub上居然有人给了Star，人生第一次，分享出来给大家，虽然多半没什么用，供大家一乐也好。垃圾代码，还望轻喷。
-
-基于JakHuang大佬的[form-generator](https://github.com/JakHuang/form-generator)的，仿钉钉后台审批流程创建界面
-
-[Gitee预览入口](http://soning.gitee.io/approvalflow/)
-
-[GitHub仓库](https://github.com/SNFocus/approvalFlow)
-
-[Gitee仓库](https://gitee.com/soning/approvalFlow)
-
 ## 主要功能
 1. 表单配置(form-generator)
   - 拖拽表单，生成布局页面
@@ -34,7 +24,6 @@
 |---- admin  // 后台配置界面
 |---- custom // 前台预览界面
 ```
-> 不想把JakHuang大佬的项目拆分出来 一是为了方便学习大佬代码 二是为了以后单独抽离表单出来更方便 所以没有把form-generator项目的公用文件抽离到顶层 流程创建组件同理
 
 ## 表单组件
 1. 单行输入框, 多行输入框, 数字输入框, 金额
@@ -52,9 +41,6 @@
 ![YL5F1S.png](https://s1.ax1x.com/2020/05/22/YL5F1S.png)
 ![YL5Z0s.png](https://s1.ax1x.com/2020/05/22/YL5Z0s.png)
 ![YL5Vmj.png](https://s1.ax1x.com/2020/05/22/YL5Vmj.png)
-
-## 郑重感谢
-非常感谢JakHuang的[form-generator](https://github.com/JakHuang/form-generator)为我解决了很多问题，也从中学习到了很多。再者就是我fork`form-generator`版本和JakHuang现在的版本也有很大的区别，感兴趣的童鞋可以去JakHuang那儿看看。
 
 
 
